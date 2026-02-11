@@ -1,0 +1,11 @@
+tensorflow==2.16.1
+tensorflow-hub
+tensorflowjs
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+jupyter
+opencv-python
