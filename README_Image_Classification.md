@@ -127,6 +127,7 @@ pip install -r requirements.txt
 
 ##### 4️⃣ Download Dataset
 Dataset tersedia di: **[Google Drive Link](https://drive.google.com/file/d/1B9LVfbu8qbcvA_fN5Q5eow41vPedg4ZH/view?usp=sharing)**
+Atau di Kaggle: "https://www.kaggle.com/datasets/aiomarrehan/animals-cats-dogs-and-snakes"
 
 Extract dataset ke folder:
 ```
@@ -409,8 +410,3 @@ Best model saved with Val Acc: 0.9533
 ```
 
 
----
-
-[⬆ Back to Top](#animal-image-classification-using-transfer-learning-)
-
-</div>
